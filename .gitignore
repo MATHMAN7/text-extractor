@@ -54,3 +54,10 @@ bin/
 hs_err_pid*
 replay_pid*
 >>>>>>> 9bf25aa67059a85ea9ec823d6ded1dba947d2127
+
+#My private files
+
+/src/config.properties
+src/test.png
+
+
